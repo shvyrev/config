@@ -4,5 +4,11 @@
       "data":{
          "url":"https://awmproxy.com/freeproxy_c4de7e89111b96d.txt"
       }
+   },
+   {
+      "type":"open-proxy-space",
+      "data":{
+         "url":"https://api.openproxy.space/list?skip=%d&ts=%d"
+      }
    }
 ]
